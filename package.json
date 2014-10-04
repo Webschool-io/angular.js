@@ -68,5 +68,8 @@
       "url": "https://github.com/angular/angular.js/blob/master/LICENSE"
     }
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  }
 }
